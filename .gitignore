@@ -2,3 +2,9 @@
 venv/
 
 blog/migrations/
+.env
+
+db.sqlite3
+
+#Static files
+files/
